@@ -1,4 +1,4 @@
-## Hi 我是乌龙茶 oolongho
+## 👋 Hi 我是乌龙茶 oolongho
 
 <!--
 **oolongho/oolongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
