@@ -1,11 +1,11 @@
 # 👋 Hi I'm 乌龙茶 (oolongho)
 
-![Sneak GIF](https://oolongho.s3.bitiful.net/sneak.gif)
+<img src="https://oolongho.s3.bitiful.net/sneak.gif" alt="Sneak GIF" width="300" />
 
 ## 🚀 About Me
 
 - **💻 Currently working on:** Full-stack development and machine learning projects
-- **🌱 Currently learning:** Java, Python, JavaScript, React and more (check out my other repositories!)
+- **🌱 Currently learning:** Java, Python, JavaScript, React and more.
 - **🤝 Looking to collaborate on:** Both open source and commercial projects
 - **📫 How to reach me:** 1678132646@qq.com
 
@@ -16,20 +16,4 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oolongho&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🌟 Projects
-
-Check out my repositories to see what I'm working on!
-
----
-
-<p align="center">
-  <i>"Code is poetry with logic."</i>
 </p>
