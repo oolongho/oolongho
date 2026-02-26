@@ -15,12 +15,15 @@
       </ul>
       
       <h2>🛠️ Tech Stack</h2>
-      <ul>
-        <li><strong>💻 Programming Languages:</strong> Java, Python, JavaScript, TypeScript</li>
-        <li><strong>🌐 Frontend:</strong> React</li>
-        <li><strong>⚙️ Backend:</strong> Node.js</li>
-        <li><strong>🧠 Machine Learning:</strong> PyTorch</li>
-      </ul>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; justify-items: center; margin: 20px 0;">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </div>
     </td>
   </tr>
 </table>
