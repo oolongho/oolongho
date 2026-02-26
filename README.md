@@ -1,6 +1,6 @@
 # 👋 Hi I'm 乌龙茶 (oolongho)
 
-<img src="https://oolongho.s3.bitiful.net/sneak.gif" alt="Sneak GIF" width="300" />
+<img src="https://oolongho.s3.bitiful.net/sneak.gif" alt="Sneak GIF" width="200" />
 
 ## 🚀 About Me
 
