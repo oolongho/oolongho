@@ -16,9 +16,9 @@
       
       <h2>🛠️ Tech Stack</h2>
       <ul>
-        <li><strong>💻 Languages:</strong> Java, Python, JavaScript</li>
-        <li><strong>🌐 Frontend:</strong> React</li>
-        <li><strong>📱 Full-stack development</strong></li>
+        <li><strong>🌐 Languages:</strong> Java, Python, JavaScript</li>
+        <li><strong>🖥️ Frontend:</strong> React</li>
+        <li><strong>🔄 Full-stack development</strong></li>
         <li><strong>🤖 Machine learning</strong></li>
       </ul>
     </td>
