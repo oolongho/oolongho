@@ -1,4 +1,4 @@
-# 👋 Hi I'm 乌龙茶 (oolongho)
+# 👋 Hi I'm oolongho乌龙茶
 
 <table>
   <tr>
@@ -13,15 +13,14 @@
         <li><strong>🤝 Looking to collaborate on:</strong> Both open source and commercial projects</li>
         <li><strong>📫 How to reach me:</strong> 1678132646@qq.com</li>
       </ul>
+      
+      <h2>🛠️ Tech Stack</h2>
+      <p style="text-align: center;">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </p>
     </td>
   </tr>
 </table>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
