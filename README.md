@@ -1,16 +1,35 @@
-## 👋 Hi 我是乌龙茶 oolongho
+# 👋 Hi I'm 乌龙茶 (oolongho)
 
-<!--
-**oolongho/oolongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Sneak GIF](https://oolongho.s3.bitiful.net/sneak.gif)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **💻 Currently working on:** Full-stack development and machine learning projects
+- **🌱 Currently learning:** Java, Python, JavaScript, React and more (check out my other repositories!)
+- **🤝 Looking to collaborate on:** Both open source and commercial projects
+- **📫 How to reach me:** 1678132646@qq.com
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oolongho&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 🌟 Projects
+
+Check out my repositories to see what I'm working on!
+
+---
+
+<p align="center">
+  <i>"Code is poetry with logic."</i>
+</p>
