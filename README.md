@@ -3,7 +3,7 @@
 ---
 
 <p>
-  <img width="320" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
+  <img width="270" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
 </p>
 
 ### 🚀 About Me
