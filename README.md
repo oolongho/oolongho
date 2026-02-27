@@ -3,7 +3,7 @@
 ---
 
 <p>
-  <img width="200" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
+  <img width="300" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
 </p>
 
 ### 🚀 About Me
@@ -24,3 +24,5 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
+
+---
