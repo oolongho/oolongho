@@ -1,8 +1,6 @@
 # 👋 Hi I'm 乌龙茶 (oolongho)
 
 ---
-
-<div style="display: flex; gap: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img width="200" src="https://oolongho.s3.bitiful.net/sneak.gif">
   </div>
@@ -26,6 +24,5 @@
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
     </div>
   </div>
-</div>
 
 ---
