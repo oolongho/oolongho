@@ -1,21 +1,19 @@
 # 👋 Hi I'm 乌龙茶 (oolongho)
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="https://oolongho.s3.bitiful.net/sneak.gif" alt="Sneak GIF" width="200" />
-    </td>
-    <td style="vertical-align: top;">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li><strong>💻 Currently working on:</strong> Full-stack development and machine learning projects</li>
-        <li><strong>🌱 Currently learning:</strong> Java, Python, JavaScript, React and more.</li>
-        <li><strong>🤝 Looking to collaborate on:</strong> Both open source and commercial projects</li>
-        <li><strong>📫 How to reach me:</strong> 1678132646@qq.com</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
+
+<p>
+  <img width="200" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
+</p>
+
+### 🚀 About Me
+
+- **💻 Currently working on:** Full-stack development and machine learning projects
+- **🌱 Currently learning:** Java, Python, JavaScript, React and more.
+- **🤝 Looking to collaborate on:** Both open source and commercial projects
+- **📫 How to reach me:** 1678132646@qq.com
+
+---
 
 ## 🛠️ Tech Stack
 
