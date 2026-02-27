@@ -8,10 +8,10 @@
 
 ### 🚀 About Me
 
-- ***💻 Currently working on:*** Full-stack development and machine learning projects
-- ***🌱 Currently learning:*** Java, Python, JavaScript, React and more.
-- ***🤝 Looking to collaborate on:*** Both open source and commercial projects
-- ***📫 How to reach me:*** 1678132646@qq.com
+- **💻 Currently working on:** Full-stack development and machine learning projects
+- **🌱 Currently learning:** Java, Python, JavaScript, React and more.
+- **🤝 Looking to collaborate on:** Both open source and commercial projects
+- **📫 How to reach me:** 1678132646@qq.com
 
 ### 🛠️ Tech Stack
 
