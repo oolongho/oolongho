@@ -4,7 +4,6 @@
   <div style="flex-shrink: 0;">
     <img width="200" src="https://oolongho.s3.bitiful.net/sneak.gif">
   </div>
-  <div style="flex: 1;">
     ### 🚀 About Me
 
     - **💻 Currently working on:** Full-stack development and machine learning projects
@@ -23,6 +22,6 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
     </div>
-  </div>
+
 
 ---
