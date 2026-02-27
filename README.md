@@ -1,7 +1,7 @@
 # 👋 Hi I'm oolongho乌龙茶
 
 <p>
-  <img width="250" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
+  <img width="200" align='right' src="https://oolongho.s3.bitiful.net/sneak.gif">
 </p>
 
 ---
