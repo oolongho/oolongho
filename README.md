@@ -3,7 +3,7 @@
 ---
 
 <p>
-  <img width="300" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
+  <img width="320" align='left' src="https://oolongho.s3.bitiful.net/sneak.gif">
 </p>
 
 ### 🚀 About Me
@@ -13,7 +13,7 @@
 - **🤝 Looking to collaborate on:** Both open source and commercial projects
 - **📫 How to reach me:** 1678132646@qq.com
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
