@@ -18,11 +18,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,pytorch,fastapi,vite" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,redis,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,pytorch,fastapi" />
 </p>
 
 ---
