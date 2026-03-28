@@ -4,7 +4,7 @@
   <img width="200" align='right' src="https://oolongho.s3.bitiful.net/sneak.gif">
 </p>
 
-### 🍵  About Me
+### 🍵 About Me
 
 - **💻 Currently leveling up my dev skills**
 - **📖 Electronic Information Engineering undergrad**
