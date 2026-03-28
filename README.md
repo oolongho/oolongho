@@ -9,7 +9,6 @@
 - **💻 Currently leveling up my dev skills**
 - **📖 Electronic Information Engineering undergrad**
 - **🎮 Minecraft • Overwatch**
-- **📫 1678132646@qq.com**
 
 ### 🛠️ Tech Stack
 
