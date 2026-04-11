@@ -21,6 +21,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,springboot" />
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle" />
 </p>
+
 ---
