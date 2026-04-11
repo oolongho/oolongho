@@ -13,11 +13,14 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,pytorch,fastapi" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,springboot" />
+</p>
 ---
