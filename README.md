@@ -20,7 +20,4 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,pytorch,fastapi" />
 </p>
 
-<a href="https://github.com/oolongho">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=oolongho&show_icons=true&hide=issues&theme=default" alt="GitHub Stats" />
-</a>
 ---
