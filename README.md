@@ -20,8 +20,4 @@
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,gradle" />
-</p>
-
 ---
