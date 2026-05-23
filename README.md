@@ -6,8 +6,8 @@
 
 ### 🍵 About Me
 
-- **💻 Currently leveling up my dev skills**
-- **📖 Electronic Information Engineering undergrad**
+- **💻 Currently leveling up my dev skills** 
+- **📖 Electronic Information Engineering undergrad** 
 - **🎮 Minecraft • Overwatch**
 
 ### 🛠️ Tech Stack
