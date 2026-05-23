@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oolongho&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oolongho&layout=compact&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=oolongho&theme=dark&hide_border=true" />
+  <img height="170" src="./profile/stats.svg" />
+  <img height="170" src="./profile/top-langs.svg" />
+  <img height="170" src="./profile/streak.svg" />
 </p>
