@@ -13,7 +13,11 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,ts,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react" />
 </p>
 
 ---
