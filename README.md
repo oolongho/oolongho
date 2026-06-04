@@ -22,7 +22,12 @@
 
 ---
 
-<p>
-  <img height="166" src="./profile/stats.svg" />
-  <img height="200" src="./profile/top-langs.svg" />
-</p>
+<div align="center">
+  <h3>Hi~</h3>
+  <img height="23px" src="https://profile-counter.glitch.me/oolongho/count.svg" />
+</div>
+
+<div align="center">
+  <img height="137px" src="https://github-readme-stats-fast.vercel.app/api?username=oolongho&hide_title=true&hide_border=true&include_all_commits=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
+  <img height="137px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oolongho&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&bg_color=30,c64dff,66ccff&theme=dark" />
+</div>
