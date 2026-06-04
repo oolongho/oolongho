@@ -1,7 +1,7 @@
 # 👋 Hi I'm oolongho 乌龙茶
 ---
 <p>
-  <img width="200" align='right' src="https://oolongho.s3.bitiful.net/sneak.gif">
+  <img width="160" align='right' src="https://oolongho.s3.bitiful.net/sneak.gif">
 </p>
 
 ### 🍵 About Me
@@ -13,11 +13,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react" />
+  <img height="50" src="https://skillicons.dev/icons?i=python,pytorch,fastapi,ts,nodejs,react,git,docker,linux,mysql,redis" />
 </p>
 
 ---
