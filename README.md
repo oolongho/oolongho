@@ -9,7 +9,8 @@
 
 - **💻 Leveling up my dev skills**
 - **📖 Electronic Information Engineering**
-- **🎮 Minecraft • Overwatch**
+- **💼 AI Product Manager**   
+- **🎮 Minecraft & Overwatch**
 
 ### 🛠️ Tech Stack
 
